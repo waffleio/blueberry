@@ -11,7 +11,3 @@ staging2:
 staging3:
 
 [![Waffle.io - Columns and their card count](https://badge-staging3.waffle.io/waffleio/blueberry.svg?columns=all)](https://waffle.io/waffleio/blueberry)
-
-
-
-hi i'm testing this
